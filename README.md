@@ -20,6 +20,7 @@ Getting familiarized with how to use notebooks or any python IDE for:
 - Visualising data
 We will use google colab
 Documentation of steps
+
 ***Deliverable*: A python script which inputs a dataframe and outputs all the important financial
 parameters like BASS and other indicators**
 
@@ -27,4 +28,5 @@ parameters like BASS and other indicators**
 Quantconnect is a very vast tool for developing trading algorithms. First phase is to complete all
 the botcamps within quantconnect to get familiar with syntax and functions of QC
 - Understanding of Quant Connects Alpha stream
+- 
 ***Deliverable*:Successfully completed all the bootcamps**
