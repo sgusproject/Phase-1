@@ -14,18 +14,32 @@ investing and algotrading.
 **Phase 1**: Foundation (2 weeks)
 
 **A :Fundamentals of Python**
-The project will be developed in python and hence the first part will be to understand python.
-Getting familiarized with how to use notebooks or any python IDE for:
-- Loading data
-- Cleaning data
-- Using Libraries, numpy and pandas and Yahoo Finance
-- Creating Indicators (Technical, Fundamental ) by libraries and raw python
-- Visualising data
-We will use google colab
-Documentation of steps
 
-***Deliverable*: A python script which inputs a dataframe and outputs all the important financial
-parameters like BASS and other indicators**
+Learning Python, familiarise using Google Colab, Jupyter notebooks and VS Code.
+Github was used used for the report writing and storing the codes.
+After trying out and familiarizing with how to use Google Colab and Jupyter notebooks, I decided on using Jypyter notebook as it more stable and adatable.
+Notebook files from Phase1: 01-12 were written to practice using python for:
+
+- Loading data
+  - Data resources: Yahoo Finance. 
+    - download as .csv files (Colab and Jupyter)
+    - downloaded using pandas_data_reader (Jupyter)
+    - downloaded using yfinance (using VS Code)
+    - column reading, insert/delete column
+- Cleaning data
+  - normalizing
+  - convert string to datetime for computation
+- Using Libraries: pandas, numpy, matplotlib, sklearn, yfinance, ta, ta.utils.
+- Creating Indicators (Technical, Fundamental ) by functions, libraries and raw python
+- Visualising data using matplotlib
+### IDEs
+Initially experimented using Google Colab. Finally settled with using Jupyter Notebook for most python computation, storing in .ipynb files. 
+VS Code was used when using writing writing pure python code of .py files.
+
+
+***Deliverables*: 
+
+
 
 **B: Fundamentals of Quantconnect**
 Quantconnect is a very vast tool for developing trading algorithms. First phase is to complete all
