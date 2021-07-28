@@ -32,13 +32,23 @@ Notebook files from Phase1: 01-12 were written to practice using python for:
 - Using Libraries: pandas, numpy, matplotlib, sklearn, yfinance, ta, ta.utils.
 - Creating Indicators (Technical, Fundamental ) by functions, libraries and raw python
 - Visualising data using matplotlib
-### IDEs
+
+### IDEs used
 Initially experimented using Google Colab. Finally settled with using Jupyter Notebook for most python computation, storing in .ipynb files. 
 VS Code was used when using writing writing pure python code of .py files.
 
 
-***Deliverables*: 
-
+## Deliverables*: Github Phase-1 Repository
+Codes and files ran and used for calculations of important financial stock indicators:
+- Var
+- Covar
+- Sharpe Ratio
+- Beta
+- SMA
+- EMA
+- ATR
+- MACD
+- Bollinger Bands
 
 
 **B: Fundamentals of Quantconnect**
@@ -47,3 +57,9 @@ the botcamps within quantconnect to get familiar with syntax and functions of QC
 - Understanding of Quant Connects Alpha stream
 - 
 ***Deliverable*:Successfully completed all the bootcamps**
+
+
+
+
+
+
