@@ -38,8 +38,8 @@ Initially experimented using Google Colab. Finally settled with using Jupyter No
 VS Code was used when using writing writing pure python code of .py files.
 
 
-## Deliverables*: Github Phase-1 Repository
-Codes and files ran and used for calculations of important financial stock indicators:
+## Deliverables: Github Phase-1 Repository
+Files 01-10. Codes and files ran and used for calculations of important financial stock indicators:
 - Var
 - Covar
 - Sharpe Ratio
