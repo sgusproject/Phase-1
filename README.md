@@ -2,7 +2,8 @@
 ## Fintech 5 : Final Project 2nd Aug-14Nov 2021
 ## Project Report by Lim Chye Joo (t0921038)
 
-## NOTE: to view Jupyter Notebook files (.ipynb), use https://nbviewer.jupyter.org/ .
+## NOTE: to view Jupyter Notebook python files (.ipynb) in Github, just click the link.
+## otherwise, can also view with nbviewer - https://nbviewer.jupyter.org/ .
 
 **OVERVIEW**
 To design and develop an intelligent systematic trading system leveraging the fundamentals of
