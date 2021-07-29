@@ -17,29 +17,30 @@ investing and algotrading.
 
 Learning Python, familiarise using Google Colab, Jupyter notebooks and VS Code.
 Github was used used for the report writing and storing the codes.
-After trying out and familiarizing with how to use Google Colab and Jupyter notebooks, I decided on using Jypyter notebook as it more stable and adatable.
+After trying out and familiarizing with how to use Google Colab and Jupyter notebooks, and VS Code. I decided on using Jypyter notebook as it more intuitive and customisable.
 Notebook files from Phase1: 01-12 were written to practice using python for:
 
 - Loading data
   - Data resources: Yahoo Finance. 
-    - download as .csv files (Colab and Jupyter)
-    - downloaded using pandas_data_reader (Jupyter)
-    - downloaded using yfinance (using VS Code)
-    - column reading, insert/delete column
+    - download as .csv files (Colab, Jupyter)
+    - downloaded using pandas_data_reader (Jupyter, VSCode)
+    - downloaded using yfinance (Jupyter, VSCode)
+    - column reading, insert/delete column (Colab, Jupyter)
 - Cleaning data
   - normalizing
   - convert string to datetime for computation
-- Using Libraries: pandas, numpy, matplotlib, sklearn, yfinance, ta, ta.utils.
-- Creating Indicators (Technical, Fundamental ) by functions, libraries and raw python
+- Using Libraries & dependencies: pandas, numpy, matplotlib, sklearn, yfinance, ta, ta.utils.
+- Creating Indicators (Technical, Fundamental ) by functions, libraries and Python
 - Visualising data using matplotlib
 
 ### IDEs used
-Initially experimented using Google Colab. Finally settled with using Jupyter Notebook for most python computation, storing in .ipynb files. 
-VS Code was used when using writing writing pure python code of .py files.
+Initially experimented using Google Colab, Jupyter and VSCode . 
+Finally settled with using Jupyter Notebook for most python computation, storing in .ipynb files. 
+
 
 
 ## Deliverables: Github Phase-1 Repository
-Files 01-10. Codes and files ran and used for calculations of important financial stock indicators:
+Files 01-12. Codes and files ran and used for calculations of important financial stock indicators:
 - Var
 - Covar
 - Sharpe Ratio
@@ -49,6 +50,7 @@ Files 01-10. Codes and files ran and used for calculations of important financia
 - ATR
 - MACD
 - Bollinger Bands
+- RSI
 
 
 **B: Fundamentals of Quantconnect**
