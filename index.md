@@ -48,7 +48,7 @@ Finally settled with using Jupyter Notebook for most python computation, storing
 
 Files 01-12. Codes and files ran and used for calculations of important financial stock indicators:
 
-- https://github.com/sgusproject/Phase-1/blob/main/01DataframesLearn.ipynb
+- [01DataframesLearn.ipynb](https://github.com/sgusproject/Phase-1/blob/main/01DataframesLearn.ipynb)
   - Read data from CSV (downloaded from Yahoo! Finance)
   - Understand dataframe and data types
   - Set Index
