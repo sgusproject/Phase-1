@@ -31,7 +31,8 @@ plt.style.use("dark_background")
 
 plt.plot(df["Date"],df["basharpe"], label="BA")
 plt.plot(df["Date"],df["gesharpe"], label="GE")
-#plt.plot(df["Date"],df["gesharpe"] - df["basharpe"], label="XMR - BTC")
+plt.plot(df["Date"],df["gesharpe"] - df["basharpe"], label="XMR - BTC")
 plt.title("Sharpe Ratios of BA and GE", size = 20)
 plt.legend()
 plt.show()
+
