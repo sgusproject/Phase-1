@@ -166,6 +166,7 @@ the botcamps within quantconnect to get familiar with syntax and functions of QC
 
 
 
+
 #### Learning Resources:
 
 - https://www.ta-lib.org/
