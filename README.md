@@ -58,8 +58,12 @@ the botcamps within quantconnect to get familiar with syntax and functions of QC
 - 
 ***Deliverable*:Successfully completed all the bootcamps**
 
+#### Learning Resources:
 
-
-
+- https://www.ta-lib.org/
+- https://blog.quantinsti.com/install-ta-lib-python/
+- https://www.learnpythonwithrune.org/start-python-with-pandas-for-financial-analysis/
+- https://www.programcreek.com/python/example/92312/talib.RSI
+- https://www.investopedia.com/
 
 
