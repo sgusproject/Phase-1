@@ -17,7 +17,6 @@ investing and algotrading.
   - Google Colab, Jupyter Anaconda, VS Code IDEs. 
   - Python libraries for dataframe manipulation, calculation, ML & Visualization.
 
-)
 
 **A :Fundamentals of Python**
 
