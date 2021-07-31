@@ -163,9 +163,7 @@ the botcamps within quantconnect to get familiar with syntax and functions of QC
 - 
 ## Deliverable B: Successfully completed all the bootcamps**
 
-![QC Bootcamps Completed](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-
+![QC Bootcamps Completed](https://github.com/sgusproject/Phase-1/blob/gh-pages/QCBootcamps_Completed.JPG?raw=true)
 
 
 #### Learning Resources:
