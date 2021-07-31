@@ -162,6 +162,7 @@ Quantconnect is a very vast tool for developing trading algorithms. First phase 
 the botcamps within quantconnect to get familiar with syntax and functions of QC
 - Understanding of Quant Connects Alpha stream
 
+
 ## Deliverable B: Successfully completed all the bootcamps**
 
 ![QC Bootcamps Completed](https://github.com/sgusproject/Phase-1/blob/gh-pages/QCBootcamps_Completed.JPG?raw=true)
