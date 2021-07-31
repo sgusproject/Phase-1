@@ -41,13 +41,13 @@ Finally settled with using Jupyter Notebook for most python computation, storing
 
 ## Deliverables: Github Phase-1 Repository
 Files 01-12. Codes and files ran and used for calculations of important financial stock indicators:
+
 - Var
 - Covar
 - Sharpe Ratio
 - Beta
 - SMA
 - EMA
-- ATR
 - MACD
 - Bollinger Bands
 - RSI
