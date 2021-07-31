@@ -8,6 +8,7 @@
 ## Phase 1: Foundation (2 weeks)
 
 **OVERVIEW**
+
 To design and develop an intelligent systematic trading system leveraging the fundamentals of
 investing and algotrading.
 
