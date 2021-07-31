@@ -161,7 +161,7 @@ Files 01-12. Codes and files ran and used for calculations of important financia
 Quantconnect is a very vast tool for developing trading algorithms. First phase is to complete all
 the botcamps within quantconnect to get familiar with syntax and functions of QC
 - Understanding of Quant Connects Alpha stream
-- 
+
 ## Deliverable B: Successfully completed all the bootcamps**
 
 ![QC Bootcamps Completed](https://github.com/sgusproject/Phase-1/blob/gh-pages/QCBootcamps_Completed.JPG?raw=true)
