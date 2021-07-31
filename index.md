@@ -7,18 +7,18 @@
 
 ## Phase 1: Foundation (2 weeks)
 
-**OVERVIEW**
+### OVERVIEW
 
 To design and develop an intelligent systematic trading system leveraging the fundamentals of
 investing and algotrading.
 
-**SKILLS Attained**: 
+### SKILLS Attained
   - Python Language
   - Google Colab, Jupyter Anaconda, VS Code IDEs. 
   - Python libraries for dataframe manipulation, calculation, ML & Visualization.
 
 
-**A :Fundamentals of Python**
+### A :Fundamentals of Python
 
 Learning Python, familiarise using Google Colab, Jupyter notebooks and VS Code.
 Github was used used for the report writing and storing the codes.
@@ -156,7 +156,7 @@ Files 01-12. Codes and files ran and used for calculations of important financia
   - RSI Calculation and plotting
 
 
-**B: Fundamentals of Quantconnect**
+### B: Fundamentals of Quantconnect
 Quantconnect is a very vast tool for developing trading algorithms. First phase is to complete all
 the botcamps within quantconnect to get familiar with syntax and functions of QC
 - Understanding of Quant Connects Alpha stream
