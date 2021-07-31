@@ -156,7 +156,8 @@ Files 01-12. Codes and files ran and used for calculations of important financia
   - RSI Calculation and plotting
 
 
-### B: Fundamentals of Quantconnect
+## B: Fundamentals of Quantconnect
+
 Quantconnect is a very vast tool for developing trading algorithms. First phase is to complete all
 the botcamps within quantconnect to get familiar with syntax and functions of QC
 - Understanding of Quant Connects Alpha stream
