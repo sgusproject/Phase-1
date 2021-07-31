@@ -5,7 +5,7 @@
 ## Python IDE: Jupyter (Anaconda)
 ## Python Codes Best viewed with Jupyter or nbviewer - https://nbviewer.jupyter.org/ .
 
-## Phase 1: Foundation (2 weeks
+## Phase 1: Foundation (2 weeks)
 
 **OVERVIEW**
 To design and develop an intelligent systematic trading system leveraging the fundamentals of
