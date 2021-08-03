@@ -3,8 +3,8 @@
 ## Project Report by Lim Chye Joo (t0921038)
 
 ## Python IDE: Jupyter (Anaconda)
-![jupyterlogo.png](./jupyterlogo.PNG)
-## Python Codes Best viewed with Jupyter or nbviewer - https://nbviewer.jupyter.org/ .
+![jupyterlogo](./jupyterlogo.PNG)
+## Python Codes Best viewed with Jupyter or nbviewer - [nbviewer](https://nbviewer.jupyter.org/)
 
 ## Phase 1: Foundation (2 weeks)
 
