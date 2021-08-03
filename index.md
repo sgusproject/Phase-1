@@ -131,6 +131,9 @@ Files 01-12. Codes and files ran and used for calculations of important financia
     pandas, numpy, matplotlib
     get-dataframe function to get from .csv
 
+- [10.1ATR.ipynb](https://github.com/sgusproject/Phase-1/blob/main/10.1ATR.ipynb)
+  - To calculate the Average True Range (ATR)
+
 - [10SharpeRatios.ipynb](https://github.com/sgusproject/Phase-1/blob/main/10SharpeRatios.ipynb)
   - Sharpe Ratio
   - Using yfinance data downloader
