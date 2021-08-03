@@ -3,7 +3,7 @@
 ## Project Report by Lim Chye Joo (t0921038)
 
 ## Python IDE: Jupyter (Anaconda)
-![jupyterlogo.pnb](https://github.com/sgusproject/Phase-1/blob/gh-pages/jupyterlogo.PNG)
+![jupyterlogo.png](https://github.com/sgusproject/Phase-1/blob/gh-pages/jupyterlogo.PNG)
 ## Python Codes Best viewed with Jupyter or nbviewer - https://nbviewer.jupyter.org/ .
 
 ## Phase 1: Foundation (2 weeks)
