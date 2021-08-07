@@ -1,5 +1,5 @@
 # Algotrading-Developing algorithms in Quantconnect and Submitting Alpha
-## Fintech 5 : Final Project 2nd Aug-14Nov 2021
+## Fintech 5 : Final Project 2nd Aug-29Nov 2021
 ## Project Report by Lim Chye Joo (t0921038)
 
 ## Python IDE: Jupyter
